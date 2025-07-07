@@ -19,15 +19,28 @@ Figure below ...
 
 Strategies for integrating untrustworthy retrieved documents without relying on external evidence. We propose that such methods can fruitfully be combined with evidence-based reasoning, serving as a first line of defense and limiting expensive searches for additional evidence.
 
-* [[Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models]](https://arxiv.org/abs/2410.07176).
-* [[To Trust or Not to Trust? Enhancing Large Language Models' Situated Faithfulness to External Contexts]](https://openreview.net/forum?id=K2jOacHUlO).
+* Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models (Wang et al., 2025).
+  [[Paper]](https://arxiv.org/abs/2410.07176).
+* To Trust or Not to Trust? Enhancing Large Language Models' Situated Faithfulness to External Contexts (Huang et al., 2025).
+  [[Paper]](https://openreview.net/forum?id=K2jOacHUlO).
+* Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise (Hong et al., 2024).
+  [[Paper]](https://aclanthology.org/2024.findings-naacl.159/)
 * 
 
 
 ## Evidence Retrieval
 
-Bla
+* Corrective Retrieval Augmented Generation (Yan et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2401.15884)
+* Certifiably Robust RAG against Retrieval Corruption (Xiang et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2405.15556)
+*  
 
-## Source Criticism & Veracity Analysis
+## Source Criticism
 
-Bla
+* Generating Media Background Checks for Automated Source Critical Reasoning
+ (Schlichtkrull et al., 2023)
+  [[Paper]](https://aclanthology.org/2024.findings-emnlp.283/)
+
+## Veracity Analysis
+
