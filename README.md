@@ -44,3 +44,6 @@ Strategies for integrating untrustworthy retrieved documents without relying on 
 
 ## Veracity Analysis
 
+## Datasets
+
+* Can LLMs be Scammed? A Baseline Measurement Study (Sehwag et al., 2024). [[Paper]](Can LLMs be Scammed? A Baseline Measurement Study)
