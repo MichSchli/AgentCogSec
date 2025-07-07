@@ -17,7 +17,12 @@ Figure below ...
 
 ## Claim Prioritisation
 
-Bla
+Strategies for integrating untrustworthy retrieved documents without relying on external evidence. We propose that such methods can fruitfully be combined with evidence-based reasoning, serving as a first line of defense and limiting expensive searches for additional evidence.
+
+* [[Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models]](https://arxiv.org/abs/2410.07176).
+* [[To Trust or Not to Trust? Enhancing Large Language Models' Situated Faithfulness to External Contexts]](https://openreview.net/forum?id=K2jOacHUlO).
+* 
+
 
 ## Evidence Retrieval
 
