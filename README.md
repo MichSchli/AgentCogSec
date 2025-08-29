@@ -16,11 +16,11 @@ This repo contains relevant resources from []. In this paper, we introduce attac
 
 Text
 
-![Example](Figures/example.pdf)
+![Example](Figures/example.png)
 
 More text
 
-![Pipeline](Figures/pipeline.pdf)
+![Pipeline](Figures/pipeline.png)
 
 
 ## Claim Prioritisation
