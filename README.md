@@ -1,4 +1,7 @@
-<a href="url"><img src="Figures/example.png" align="center" height="30%" width="30%" ></a>
+
+<p align="center">
+  <img src="Figures/example.png" align="center" height="30%" width="30%" ></a>
+</p>
 
 # Defenses Against Attacks by Content
 List of papers on cognitive security for AI agents.
@@ -20,7 +23,7 @@ Text
 
 In our paper, we propose a pipeline for defending against attacks by content:
 
-<a href="url"><img src="Figures/pipeline" align="center" height="30%" width="30%" ></a>
+<a href="url"><img src="Figures/pipeline.png" align="center" height="30%" width="30%" ></a>
 
 ## Claim Prioritisation
 
