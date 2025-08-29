@@ -1,8 +1,4 @@
 
-<p align="center">
-  <img src="Figures/example.png" align="center" height="30%" width="30%" ></a>
-</p>
-
 # Defenses Against Attacks by Content
 List of papers on cognitive security for AI agents.
 
@@ -13,17 +9,23 @@ List of papers on cognitive security for AI agents.
 ## Overview
 This repo contains relevant resources from []. In this paper, we introduce attacks by content, a type of prompt injection where an attacker manipulates a RAG system or an AI agent by supplying biased, misleading, or false information. This differs from traditional prompt injection in that the surface form of the message is indistinguishable from legitimate content. The agent must therefore analyse the *content* of the message to identify the attack -- i.e., the agent must fact-check. In this repository, we curate a list of papers focusing on defending against such attacks. As the field evolves, we will provide timely updates in this repository.
 
-- [Task Definition](#task-definition)
-- [Claim Prioritisation](#claim-prioritisation)
 
+<p align="center">
+  <img src="Figures/example.png" align="center" height="30%" width="30%" ></a>
+</p>
 
-## Task Definition
-
-Text
+## Defense Pipeline
 
 In our paper, we propose a pipeline for defending against attacks by content:
 
 <a href="url"><img src="Figures/pipeline.png" align="center" height="30%" width="30%" ></a>
+
+- [Claim Prioritisation](#claim-prioritisation)
+- [Evidence Retrieval](#evidence-retrieval)
+- [Source Criticism](#source-criticism)
+- [Veracity Analysis](#veracity-analysis)
+- [Communication of Findings](#communication-of-findings)
+- [Datasets](#datasets)
 
 ## Claim Prioritisation
 
@@ -36,7 +38,6 @@ Strategies for integrating untrustworthy retrieved documents without relying on 
 * Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise (Hong et al., 2024).
   [[Paper]](https://aclanthology.org/2024.findings-naacl.159/)
 * 
-
 
 ## Evidence Retrieval
 
@@ -53,6 +54,8 @@ Strategies for integrating untrustworthy retrieved documents without relying on 
   [[Paper]](https://aclanthology.org/2024.findings-emnlp.283/)
 
 ## Veracity Analysis
+
+## Communication of Findings
 
 ## Datasets
 
