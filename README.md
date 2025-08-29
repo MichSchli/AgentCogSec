@@ -23,6 +23,8 @@ In our paper, we propose a pipeline for defending against attacks by content:
   <img src="Figures/pipeline.png" align="center" height="70%" width="70%" ></a>
 </p>
 
+Below, we survey papers working on these pipeline steps in the context of agent/RAG security.
+
 - [Claim Prioritisation](#claim-prioritisation)
 - [Evidence Retrieval](#evidence-retrieval)
 - [Source Criticism](#source-criticism)
@@ -34,7 +36,7 @@ In our paper, we propose a pipeline for defending against attacks by content:
 
 Strategies for integrating untrustworthy retrieved documents without relying on external evidence. We propose that such methods can fruitfully be combined with evidence-based reasoning, serving as a first line of defense and limiting expensive searches for additional evidence.
 
-* Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models (Wang et al., 2025).
+* Astute RAG: Overcoming Imperfect Retrieval Augmentation and Knowledge Conflicts for Large Language Models (Wang et al., 2025)
   [[Paper]](https://arxiv.org/abs/2410.07176).
 * To Trust or Not to Trust? Enhancing Large Language Models' Situated Faithfulness to External Contexts (Huang et al., 2025).
   [[Paper]](https://openreview.net/forum?id=K2jOacHUlO).
