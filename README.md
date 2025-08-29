@@ -17,13 +17,11 @@ In this paper, we introduce attacks by content, a type of prompt injection where
 
 ## Defense Pipeline
 
-In our paper, we propose a pipeline for defending against attacks by content:
-
 <p align="center">
-  <img src="Figures/pipeline.png" align="center" height="70%" width="70%" ></a>
+  <img src="Figures/pipeline.png" align="center" height="60%" width="60%" ></a>
 </p>
 
-Below, we survey papers working on these pipeline steps in the context of agent/RAG security.
+In our paper, we propose a pipeline for defending against attacks by content. Below, we survey papers working on these pipeline steps in the context of agent/RAG security.
 
 - [Claim Prioritisation](#claim-prioritisation)
 - [Evidence Retrieval](#evidence-retrieval)
