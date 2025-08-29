@@ -40,12 +40,11 @@ Strategies for integrating untrustworthy retrieved documents without relying on 
   [[Paper]](https://openreview.net/forum?id=K2jOacHUlO).
 * Why So Gullible? Enhancing the Robustness of Retrieval-Augmented Models against Counterfactual Noise (Hong et al., 2024).
   [[Paper]](https://aclanthology.org/2024.findings-naacl.159/)
-* 
+* Corrective Retrieval Augmented Generation (Yan et al., 2024)
+  [[Paper]](https://arxiv.org/abs/2401.15884)
 
 ## Evidence Retrieval
 
-* Corrective Retrieval Augmented Generation (Yan et al., 2024)
-  [[Paper]](https://arxiv.org/abs/2401.15884)
 * Certifiably Robust RAG against Retrieval Corruption (Xiang et al., 2024)
   [[Paper]](https://arxiv.org/abs/2405.15556)
 *  
