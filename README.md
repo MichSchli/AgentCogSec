@@ -6,9 +6,10 @@ List of papers on cognitive security for AI agents.
 [![Last Commit](https://img.shields.io/github/last-commit/MichSchli/AgentCogSec)](https://github.com/MichSchli/AgentCogSec)
 [![Contribution_welcome](https://img.shields.io/badge/Contributions-welcome-blue)](https://github.com/MichSchli/AgentCogSec/blob/main/contribute.md)
 
-## Overview
-This repo contains relevant resources from []. In this paper, we introduce attacks by content, a type of prompt injection where an attacker manipulates a RAG system or an AI agent by supplying biased, misleading, or false information. This differs from traditional prompt injection in that the surface form of the message is indistinguishable from legitimate content. The agent must therefore analyse the *content* of the message to identify the attack -- i.e., the agent must fact-check. In this repository, we curate a list of papers focusing on defending against such attacks. As the field evolves, we will provide timely updates in this repository.
+## Overview & Task Definition
+This repo contains relevant resources from our position paper [Attacks by Content: Automated Fact-checking is an AI Security Issue](), published in EMNLP 2025. 
 
+In this paper, we introduce attacks by content, a type of prompt injection where an attacker manipulates a RAG system or an AI agent by supplying biased, misleading, or false information. This differs from traditional prompt injection in that the surface form of the message is indistinguishable from legitimate content. The agent must therefore analyse the *content* of the message to identify the attack -- i.e., the agent must fact-check. In this repository, we curate a list of papers focusing on defending against such attacks. As the field evolves, we will provide timely updates in this repository.
 
 <p align="center">
   <img src="Figures/example.png" align="center" height="30%" width="30%" ></a>
@@ -18,7 +19,9 @@ This repo contains relevant resources from []. In this paper, we introduce attac
 
 In our paper, we propose a pipeline for defending against attacks by content:
 
-<a href="url"><img src="Figures/pipeline.png" align="center" height="30%" width="30%" ></a>
+<p align="center">
+  <img src="Figures/pipeline.png" align="center" height="70%" width="70%" ></a>
+</p>
 
 - [Claim Prioritisation](#claim-prioritisation)
 - [Evidence Retrieval](#evidence-retrieval)
