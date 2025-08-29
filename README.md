@@ -1,3 +1,5 @@
+<a href="url"><img src="Figures/example.png" align="center" height="30%" width="30%" ></a>
+
 # Defenses Against Attacks by Content
 List of papers on cognitive security for AI agents.
 
@@ -16,12 +18,9 @@ This repo contains relevant resources from []. In this paper, we introduce attac
 
 Text
 
-<a href="url"><img src="Figures/example.png" align="right" height="30%" width="30%" ></a>
+In our paper, we propose a pipeline for defending against attacks by content:
 
-More text
-
-![Pipeline](Figures/pipeline.png)
-
+<a href="url"><img src="Figures/pipeline" align="center" height="30%" width="30%" ></a>
 
 ## Claim Prioritisation
 
