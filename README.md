@@ -13,7 +13,15 @@ This repo contains relevant resources from []. In this paper, we introduce attac
 
 
 ## Task Definition
-Figure below ...
+
+Text
+
+![Example](Figures/example.png)
+
+More text
+
+![Pipeline](Figures/pipeline.png)
+
 
 ## Claim Prioritisation
 
@@ -46,4 +54,5 @@ Strategies for integrating untrustworthy retrieved documents without relying on 
 
 ## Datasets
 
-* Can LLMs be Scammed? A Baseline Measurement Study (Sehwag et al., 2024). [[Paper]](Can LLMs be Scammed? A Baseline Measurement Study)
+* Can LLMs be Scammed? A Baseline Measurement Study (Sehwag et al., 2024).
+  [[Paper]](https://arxiv.org/abs/2410.13893)
