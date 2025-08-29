@@ -16,7 +16,7 @@ This repo contains relevant resources from []. In this paper, we introduce attac
 
 Text
 
-<a href="url"><img src="Figures/example.png" align="center" height="50%" width="50%" ></a>
+<a href="url"><img src="Figures/example.png" align="right" height="30%" width="30%" ></a>
 
 
 ![Example](Figures/example.png)
