@@ -18,9 +18,6 @@ Text
 
 <a href="url"><img src="Figures/example.png" align="right" height="30%" width="30%" ></a>
 
-
-![Example](Figures/example.png)
-
 More text
 
 ![Pipeline](Figures/pipeline.png)
