@@ -21,7 +21,7 @@ In this paper, we introduce attacks by content, a type of prompt injection where
   <img src="Figures/pipeline.png" align="center" height="60%" width="60%" ></a>
 </p>
 
-In our paper, we propose a pipeline for defending against attacks by content. Below, we describe the steps of our pipeline, and survey papers working on these pipeline steps in the context of agent/RAG security.
+In our paper, we propose a pipeline for defending against attacks by content. Below, we describe the steps of our pipeline, and survey papers working on these pipeline steps in the context of agent/RAG security. We do not include papers and resources developed exclusively in the context of automated fact-checking - for those, a comprehensive list can be found in [this repositoryo](https://github.com/Cartus/Automated-Fact-Checking-Resources).
 
 - [Claim Prioritisation](#claim-prioritisation)
 - [Evidence Retrieval](#evidence-retrieval)
@@ -45,11 +45,15 @@ Strategies for integrating untrustworthy retrieved documents without relying on 
 
 ## Evidence Retrieval
 
+Methods for gathering additional evidence to corroborate or refute claims found in retrieved documents. For completeness we include here both papers focusing on improving the initial discovery step, and papers focusing on finding counter-evidence.
+
 * Certifiably Robust RAG against Retrieval Corruption (Xiang et al., 2024)
   [[Paper]](https://arxiv.org/abs/2405.15556)
 *  
 
 ## Source Criticism
+
+Evaluating the trustworthiness and bias of information sources. Such judgments are necessary to compare multiple contradicting found documents, and as a defensive measure in cases where counterevidence cannot be found.
 
 * Generating Media Background Checks for Automated Source Critical Reasoning
  (Schlichtkrull et al., 2023)
@@ -57,7 +61,11 @@ Strategies for integrating untrustworthy retrieved documents without relying on 
 
 ## Veracity Analysis
 
+Synthesizing evidence and source credibility information to make final determinations about claim truthfulness.
+
 ## Communication of Findings
+
+Explaining verification decisions to users to prevent over-reliance and maintain appropriate trust calibration.
 
 ## Datasets
 
