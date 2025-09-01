@@ -49,7 +49,6 @@ Methods for gathering additional evidence to corroborate or refute claims found 
 
 * Certifiably Robust RAG against Retrieval Corruption (Xiang et al., 2024)
   [[Paper]](https://arxiv.org/abs/2405.15556)
-*  
 
 ## Source Criticism
 
