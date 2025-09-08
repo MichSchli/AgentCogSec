@@ -21,7 +21,7 @@ In this paper, we introduce attacks by content, a type of prompt injection where
   <img src="Figures/pipeline.png" align="center" height="60%" width="60%" ></a>
 </p>
 
-In our paper, we propose a pipeline for defending against attacks by content. Below, we describe the steps of our pipeline, and survey papers working on these pipeline steps in the context of agent/RAG security. We do not include papers and resources developed exclusively in the context of automated fact-checking - for those, a comprehensive list can be found in [this repositoryo](https://github.com/Cartus/Automated-Fact-Checking-Resources).
+In our paper, we propose a pipeline for defending against attacks by content. Below, we describe the steps of our pipeline, and survey papers working on these pipeline steps in the context of agent/RAG security. We do not include papers and resources developed exclusively in the context of automated fact-checking - for those, a comprehensive list can be found in [this repository](https://github.com/Cartus/Automated-Fact-Checking-Resources).
 
 - [Claim Prioritisation](#claim-prioritisation)
 - [Evidence Retrieval](#evidence-retrieval)
